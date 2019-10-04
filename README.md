@@ -1,7 +1,7 @@
-#Serverless App with python deployed on Cloud
+# Serverless App with python deployed on Cloud
 
 
-##Installation
+## Installation
 
 `pip install -r requirements.txt`
 
